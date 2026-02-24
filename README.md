@@ -5,4 +5,4 @@ Mi immedesimo come un consulente che lavora fornendo servizi di analisi delle pe
 1. Esiste una relazione tra il punteggio di rendimento di una persona e per chi essa lavora?
 2. Qual è il profilo complessivo della diversità etnica dell'organizzazione?
 3. Quali sono le migliori fonti di reclutamento se si vuole garantire un'organizzazione diversificata?
-    Ci sono aree dell'azienda in cui la retribuzione non è equa?
+4. Ci sono aree dell'azienda in cui la retribuzione non è equa?
